@@ -2,8 +2,8 @@
     "__JSON__": true,
     "AUTHOR": "Vajira",
     "theme": "Vajira-Md",
-    "LANGUAGE": "Sinhala",
-    "LANGCODE": "si",
+    "LANGUAGE": "english",
+    "LANGCODE": "en",
     "STRINGS": { 
         "updater": { 
             "UPDATE": "*Believe it.\nඔබේ බොට් දැනටමත් යාවත්කාලීනයි*",
